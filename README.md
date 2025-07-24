@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **thisismarkreal@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/daniel-mark-real-966abb28b/](https://www.linkedin.com/in/daniel-mark-real-966abb28b/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/daniel-mark-real-966abb28b/](www.linkedin.com/in/mrk-dev)
 
 - ⚡ Fun fact **I code at Night**
 
