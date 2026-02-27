@@ -10,7 +10,7 @@ CS student | Junior Full-Stack Developer | Backend-leaning
 </p>
 
 <p align="center">
-I build and ship full-stack web and mobile applications with a focus on backend APIs,
+I build full-stack web and mobile applications with a focus on backend APIs,
 performance, and clean architecture. I’ve worked on healthcare and IoT systems and I’m
 currently strengthening my Python skills for AI-driven applications.
 </p>
